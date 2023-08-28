@@ -13,6 +13,7 @@
     padding:70px 30px; ;
 }
 .sub-heading{
+     margin-bottom: 20px;
     font-size: 50px;
 }
 #first .sub-para{
@@ -29,6 +30,8 @@
 }
 #first .row-port{
     margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 34px;
@@ -382,4 +385,5 @@
     color: white;
     background: black;
     margin-bottom: 30px;
+    cursor:pointer;
 }
