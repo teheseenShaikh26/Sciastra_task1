@@ -11,3 +11,7 @@ Some screenshots:
 ## Demo Video 
 
 
+
+
+https://github.com/teheseenShaikh26/Sciastra_task1/assets/78405778/611553d1-a593-4dc5-ab5c-76fab12f2959
+
